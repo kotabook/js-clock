@@ -1,6 +1,8 @@
 # world-clock
 
 当フォルダの"world-clock"は、タイムゾーンを選択することでその地域の日付と時刻をデジタル形式とアナログ形式で表示する事ができるWebアプリケーションです。
+以下のリンクで公開してます。
+https://kotabook-clock.herokuapp.com
 
 # Usage
 
